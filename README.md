@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zkfriendly
-- 👀 I’m interested in travling and hiking
-- 🌱 I’m currently learning modern cryptography, and I think I'm falling in love with Rust!
-- 💞️ I’m looking to collaborate on anything related to privacy at scale!
+- 👀 Longevity
+- 🌱 Falling in love with math! Building @zkemail
+- 💞️ I’m looking to collaborate on anything that contributes to human knowledge base!
 - 📫 How to reach me @zkfriendly
 
 <!---
